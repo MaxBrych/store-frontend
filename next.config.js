@@ -27,7 +27,7 @@ const nextConfig = withStoreConfig({
       },
       {
         protocol: "https",
-        hostname: "https://medusa-store-bucket.fra1.digitaloceanspaces.com",
+        hostname: "medusa-store-bucket.fra1.digitaloceanspaces.com",
       },
     ],
   },
